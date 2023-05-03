@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\ADBook-FileIO\ADBook-UC11\ADBook-UC11\bin\Debug\net6.0\ADBook-UC11.exe
+C:\Users\USER\source\BL\ADBook-FileIO\ADBook-UC11\ADBook-UC11\bin\Debug\net6.0\ADBook-UC11.deps.json
+C:\Users\USER\source\BL\ADBook-FileIO\ADBook-UC11\ADBook-UC11\bin\Debug\net6.0\ADBook-UC11.runtimeconfig.json
+C:\Users\USER\source\BL\ADBook-FileIO\ADBook-UC11\ADBook-UC11\bin\Debug\net6.0\ADBook-UC11.dll
+C:\Users\USER\source\BL\ADBook-FileIO\ADBook-UC11\ADBook-UC11\bin\Debug\net6.0\ADBook-UC11.pdb
+C:\Users\USER\source\BL\ADBook-FileIO\ADBook-UC11\ADBook-UC11\obj\Debug\net6.0\ADBook-UC11.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\ADBook-FileIO\ADBook-UC11\ADBook-UC11\obj\Debug\net6.0\ADBook-UC11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\ADBook-FileIO\ADBook-UC11\ADBook-UC11\obj\Debug\net6.0\ADBook-UC11.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\ADBook-FileIO\ADBook-UC11\ADBook-UC11\obj\Debug\net6.0\ADBook-UC11.AssemblyInfo.cs
+C:\Users\USER\source\BL\ADBook-FileIO\ADBook-UC11\ADBook-UC11\obj\Debug\net6.0\ADBook-UC11.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\ADBook-FileIO\ADBook-UC11\ADBook-UC11\obj\Debug\net6.0\ADBook-UC11.dll
+C:\Users\USER\source\BL\ADBook-FileIO\ADBook-UC11\ADBook-UC11\obj\Debug\net6.0\refint\ADBook-UC11.dll
+C:\Users\USER\source\BL\ADBook-FileIO\ADBook-UC11\ADBook-UC11\obj\Debug\net6.0\ADBook-UC11.pdb
+C:\Users\USER\source\BL\ADBook-FileIO\ADBook-UC11\ADBook-UC11\obj\Debug\net6.0\ADBook-UC11.genruntimeconfig.cache
+C:\Users\USER\source\BL\ADBook-FileIO\ADBook-UC11\ADBook-UC11\obj\Debug\net6.0\ref\ADBook-UC11.dll
