@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ADBook-UC12/1.0.0": {
+        "runtime": {
+          "ADBook-UC12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ADBook-UC12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
